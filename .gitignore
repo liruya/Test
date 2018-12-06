@@ -1,3 +1,4 @@
 *.txt
 !README.txt
 tmp/
+*.o
